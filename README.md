@@ -1,5 +1,5 @@
 
-# Acoustic Mosquito Species Classification using Deep Learning
+# Accoustic Mosquito Species Classification using Deep Learning
 
 A deep learning project for classifying mosquito species based on their acoustic signatures using multiple neural network architectures with Bayesian uncertainty estimation.
 
